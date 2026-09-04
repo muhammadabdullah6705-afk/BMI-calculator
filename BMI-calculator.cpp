@@ -80,7 +80,7 @@ int main() {
         bmi = calculateImperialBMI(weightLbs, feet, inches);
 
     } else {
-        cout << "Invalid choice! Please run the program again and select 1 or 2.\n";
+        cout << "Invalid choice! Please run the program again and select 1 or 2. \n";
         return 1;
     }
 

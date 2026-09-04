@@ -1,14 +1,18 @@
 # 🎉 WE HAVE LIFT OFF! 🎉
 
 Welcome to the **very first commit** of this brand-new, fresh-out-of-the-oven repository! 🚀✨
-
-/ \
-
-/ _ \     [FIRST COMMIT UNLOCKED]
-| / \ |    -----------------------
-||   ||    Status : Operational 🟢
-___/     Energy : 1000% ⚡
-/ \
+```bash
+    / \
+   / _ \   
+  | / \ |   
+  ||   ||    
+   \___/     
+    / \
+```
+[FIRST COMMIT UNLOCKED]
+-----------------------
+Status : Operational 🟢
+Energy : 1000% ⚡
 
 ---
 
